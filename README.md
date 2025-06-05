@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ghj999(Gihong Jeong, 정기홍)
-- 👀 I’m interested in Computer, Tech
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - gihongjeong9@naver.com
 - jjninefr9@gmail.com
