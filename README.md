@@ -13,7 +13,7 @@ Graduated with a **Bachelor's in Business Administration from Yonsei University*
 I transitioned into development through hands-on experience and building real-world projects.
 
 - 🎯 Goal: To build impactful and scalable software products
-- 💼 Degree: BBA from Yonsei University (연세대학교 경영학과 졸업)
+- 💼 Degree: BBA from Yonsei University (연세대학교 경영학과 졸업, 수능 정시)
 - 🧠 Interested in full-stack development, networks, and embedded systems
 - 🧮 Deep interest in mathematics and algorithmic problem solving
 - 🛠️ Tech Stack: `Java`, `Spring Boot`, `MySQL`, `JPA`, `React`, `Tailwind`, `JWT`, `Git`
@@ -30,7 +30,7 @@ I transitioned into development through hands-on experience and building real-wo
 수학과 시스템 사고에 깊은 관심을 가지고 있으며, 프론트부터 백엔드, 나아가 네트워크와 하드웨어까지 커버하는 개발자를 지향합니다.
 
 - 🎯 목표: 실질적인 문제를 해결하는 확장 가능하고 의미 있는 서비스를 만드는 것
-- 🎓 학력: 연세대학교 경영학과 졸업
+- 🎓 학력: 연세대학교 경영학과 졸업(수능 정시)
 - 📈 관심 분야: 풀스택 웹 개발, 네트워크 및 임베디드 시스템
 - 🧮 수학적 사고와 알고리즘 문제 해결을 즐깁니다
 - 🛠️ 기술스택: `Java`, `Spring Boot`, `MySQL`, `JPA`, `React`, `Tailwind`, `JWT`, `Git`
