@@ -60,7 +60,7 @@ I transitioned into development through hands-on experience and building real-wo
 | Project | Description (EN) | 설명 (KR) | Link |
 |--------|-------------------|-----------|------|
 | Math-Road | Math Q&A + Learning platform | 수학 문제풀이 커뮤니티 플랫폼 | [math-road.com](https://math-road.com) |
-| AirNote | Memo + Image journaling app | 메모 + 이미지 저장 앱 | [air-note.com](https://air-note-9.com) |
+| AirNote | Memo + Image journaling app | 메모 + 이미지 저장 앱 | [air-note-9.com](https://air-note-9.com) |
 | Justice Guys | Political discussion platform | 정치·사회 토론 플랫폼 | 미정 |
 
 ---
