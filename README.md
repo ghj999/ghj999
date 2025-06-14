@@ -6,7 +6,7 @@ Full-Stack Developer | Java, Spring Boot, React | Passionate about Math & System
 
 ---
 
-## 🇺🇸 🇬🇧 🇯🇵 🇸🇬 🇦🇺 About Me
+## 🇺🇸 🇬🇧 🇯🇵 🇸🇬 🇦🇺 🇨🇳 🇷🇺 🇩🇪 🇸🇪 🇨🇿 🇭🇺About Me
 
 Hi! I'm a full-stack developer with a strong passion for **math, systems thinking, and long-term innovation**.  
 Graduated with a **Bachelor's in Business Administration from Yonsei University**, one of Korea's top universities,  
