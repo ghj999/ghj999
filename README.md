@@ -28,8 +28,10 @@ I transitioned into development through hands-on experience and building real-wo
 
 안녕하세요. 저는 **연세대학교 경영학과를 졸업한 풀스택 개발자** 정기홍입니다.  
 수학과 시스템 사고에 깊은 관심을 가지고 있으며, 프론트부터 백엔드, 나아가 네트워크와 하드웨어까지 커버하는 개발자를 지향합니다.
+안녕하세요. 저는 **연세대학교 경영학과**를 졸업하고 개발자로 전향한 정기홍입니다.  
+기획과 비즈니스의 감각을 바탕으로, 직접 실행하고 만들 줄 아는 개발자가 되기 위해 노력하고 있습니다.
 
-- 🎯 목표: 실질적인 문제를 해결하는 확장 가능하고 의미 있는 서비스를 만드는 것
+- 🎯 목표: 실질적인 문제를 해결하는 확장 가능하고 의미 있는 서비스를 만드는 것 / 실용적이고 신뢰받는 개발자가 되는 것
 - 🎓 학력: 연세대학교 경영학과 졸업(수능 정시)
 - 📈 관심 분야: 풀스택 웹 개발, 네트워크 및 임베디드 시스템
 - 🧮 수학적 사고와 알고리즘 문제 해결을 즐깁니다
@@ -59,8 +61,8 @@ I transitioned into development through hands-on experience and building real-wo
 | Project | Description (EN) | 설명 (KR) | Link |
 |--------|-------------------|-----------|------|
 | Math-Road | Math Q&A + Learning platform | 수학 문제풀이 커뮤니티 플랫폼 | [math-road.com](https://math-road.com) |
-| AirNote | Memo + Image journaling app | 메모 + 이미지 저장 앱 | [air-note.com](https://air-note.com) |
-| Justice Guys | Political discussion platform | 정치·사회 토론 플랫폼 | [justice-guys.com](https://justice-guys.com) |
+| AirNote | Memo + Image journaling app | 메모 + 이미지 저장 앱 | [air-note.com](https://air-note-9.com) |
+| Justice Guys | Political discussion platform | 정치·사회 토론 플랫폼 | 미정 |
 
 ---
 
