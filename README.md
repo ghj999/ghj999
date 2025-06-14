@@ -6,7 +6,7 @@ Full-Stack Developer | Java, Spring Boot, React | Passionate about Math & System
 
 ---
 
-## 🇺🇸🇬🇧 About Me
+## 🇺🇸 🇬🇧 🇯🇵 🇸🇬 🇦🇺 About Me
 
 Hi! I'm a full-stack developer with a strong passion for **math, systems thinking, and long-term innovation**.  
 Graduated with a **Bachelor's in Business Administration from Yonsei University**, one of Korea's top universities,  
@@ -36,15 +36,15 @@ I transitioned into development through hands-on experience and building real-wo
 - 🛠️ 기술스택: `Java`, `Spring Boot`, `MySQL`, `JPA`, `React`, `Tailwind`, `JWT`, `Git`
 - 🏗️ 주요 프로젝트:
   - **Math-Road**: 글로벌 수학 커뮤니티 & 문제풀이 플랫폼
-  - **AirNote**: 메모 + 이미지 기록 서비스
-  - **Justice Guys**: 정치·사회 토론 플랫폼
+  - **Air-Note**: 메모 + 이미지 기록 서비스
+  - **Justice-Guys**: 정치·사회 토론 플랫폼
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Backend
-- Java 17, Spring Boot, JPA, Spring Security, MySQL, Redis, Swagger, JWT
+- Java 21, Spring Boot, JPA, Spring Security, MySQL, Redis, Swagger, JWT
 
 ### Frontend
 - React, Vite, Tailwind CSS, Figma, Vercel
