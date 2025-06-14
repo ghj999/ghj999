@@ -1,19 +1,22 @@
 <h1 align="center">Hi, I'm Gihong Jeong (정기홍) 👋</h1>
 
 <p align="center">
-Backend Developer | Java, Spring Boot, MySQL | Based in Seoul, Korea
+Full-Stack Developer | Java, Spring Boot, React | Passionate about Math & Systems | Based in Seoul, Korea
 </p>
 
 ---
 
 ## 🇺🇸🇬🇧 About Me
 
-Hi! I'm a backend developer who graduated with a **Bachelor's in Business Administration from Yonsei University**, one of the top universities in Korea.
+Hi! I'm a full-stack developer with a strong passion for **math, systems thinking, and long-term innovation**.  
+Graduated with a **Bachelor's in Business Administration from Yonsei University**, one of Korea's top universities,  
+I transitioned into development through hands-on experience and building real-world projects.
 
-- 🎯 Goal: To build useful, user-centric digital products
+- 🎯 Goal: To build impactful and scalable software products
 - 💼 Degree: BBA from Yonsei University (연세대학교 경영학과 졸업)
+- 🧠 Interested in full-stack development, networks, and embedded systems
+- 🧮 Deep interest in mathematics and algorithmic problem solving
 - 🛠️ Tech Stack: `Java`, `Spring Boot`, `MySQL`, `JPA`, `React`, `Tailwind`, `JWT`, `Git`
-- 📚 Transitioned from business to tech through hands-on projects
 - 🏗️ Projects in progress:
   - **Math-Road**: Global math learning and Q&A platform
   - **AirNote**: Memo & image-based journaling web app
@@ -23,16 +26,18 @@ Hi! I'm a backend developer who graduated with a **Bachelor's in Business Admini
 
 ## 🇰🇷 자기소개
 
-안녕하세요. 저는 **연세대학교 경영학과를 졸업한 백엔드 개발자** 정기홍입니다.  
-문과 출신의 배경을 바탕으로 실용적인 IT 기술을 독학하며, 실무 프로젝트 중심으로 실력을 쌓아왔습니다.
+안녕하세요. 저는 **연세대학교 경영학과를 졸업한 풀스택 개발자** 정기홍입니다.  
+수학과 시스템 사고에 깊은 관심을 가지고 있으며, 프론트부터 백엔드, 나아가 네트워크와 하드웨어까지 커버하는 개발자를 지향합니다.
 
-- 🎯 목표: 실제 유저에게 도움이 되는 제품을 직접 설계하고 구현하는 개발자
+- 🎯 목표: 실질적인 문제를 해결하는 확장 가능하고 의미 있는 서비스를 만드는 것
 - 🎓 학력: 연세대학교 경영학과 졸업
+- 📈 관심 분야: 풀스택 웹 개발, 네트워크 및 임베디드 시스템
+- 🧮 수학적 사고와 알고리즘 문제 해결을 즐깁니다
 - 🛠️ 기술스택: `Java`, `Spring Boot`, `MySQL`, `JPA`, `React`, `Tailwind`, `JWT`, `Git`
-- 🏗️ 진행 중인 프로젝트:
+- 🏗️ 주요 프로젝트:
   - **Math-Road**: 글로벌 수학 커뮤니티 & 문제풀이 플랫폼
   - **AirNote**: 메모 + 이미지 기록 서비스
-  - **Justice Guys**: 자유로운 정치·사회 토론 플랫폼
+  - **Justice Guys**: 정치·사회 토론 플랫폼
 
 ---
 
@@ -75,7 +80,4 @@ Hi! I'm a backend developer who graduated with a **Bachelor's in Business Admini
 ---
 
 > Last updated: 2025-06-14  
-> Open to backend & fullstack opportunities 🌍
-
-
-
+> Open to full-stack, systems, or algorithm-focused opportunities 🌍
