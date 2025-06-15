@@ -68,9 +68,9 @@ I transitioned into development through hands-on experience and building real-wo
 ## 📫 Contact
 
 - 📧 gihongjeong9@naver.com / jjninefr9@gmail.com  
-- 🧾 [Notion Resume & Portfolio](https://notion.so/ghj999/resume)  
-- 📝 [Tech Blog (Velog)](https://velog.io/@ghj999)  
+- 🧾 [Notion Resume & Portfolio](https://www.notion.so/CS-B-Computer-Science-Blitz-2098be7849b580c7ba61d88f75d9faf2?source=copy_link) 
 - 💼 [LinkedIn](https://linkedin.com/in/ghj999)
+- 📸 Instagram: Instagram (@alex_gihong_j_99)
 
 ---
 
